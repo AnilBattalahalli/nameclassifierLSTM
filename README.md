@@ -1,2 +1,2 @@
-# nameclassifierLSTM
-Classify Names using LSTM
+# Name Classifier
+
